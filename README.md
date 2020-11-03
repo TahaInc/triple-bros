@@ -15,15 +15,6 @@ A mobile game coded using C# and pushed to the Android's Google Play Store and i
 
 Unfortunately the game has been removed from the App Store and Google Play Store due to high maintenance fees, but the game file is still available for free down below. The original source code was also deleted as I did not have enough storage to keep it in my computer back then.
 
-## Download the game here:
+## Download the game file here:
 - For iPhone: Download [here](https://drive.google.com/file/d/1rUHACMZBlBkJyLMUcURpGxL-bQ2vSKEu/view?usp=sharing)
 - For Android: Download [apk here](https://drive.google.com/file/d/1HWBCg_nodY__winTlQs2wRvvGh5i8ujb/view) and [obb here](https://drive.google.com/file/d/1hKZ9boykGu3IQKSyZVQ5g8sMiOGjmOv5/view)
-
-### How to install (iPhone):
-1. Download impactor from here for windows or mac
-2. Connect your iPhone to your computer
-3. Drag the IPA file in impactor, then login with your apple id and it will install on your phone
-
-### How to install (Android):
-1. Go on your file explorer and extract the zip and you should locate the apk file and the obb file
-2. Click on the apk and click on it then click on install
