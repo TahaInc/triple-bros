@@ -16,5 +16,5 @@ A mobile game coded using C# and pushed to the Android's Google Play Store and i
 Unfortunately the game has been removed from the App Store and Google Play Store due to high maintenance fees, but the game file is still available for free down below. The original source code was also deleted as I did not have enough storage to keep it in my computer back then.
 
 ## Download the game file here:
-- For iPhone: Download [here](https://drive.google.com/file/d/1rUHACMZBlBkJyLMUcURpGxL-bQ2vSKEu/view?usp=sharing)
-- For Android: Download [apk here](https://drive.google.com/file/d/1HWBCg_nodY__winTlQs2wRvvGh5i8ujb/view) and [obb here](https://drive.google.com/file/d/1hKZ9boykGu3IQKSyZVQ5g8sMiOGjmOv5/view)
+- For iPhone: Download [here](https://drive.google.com/file/d/1gSzE9NIDbP8hRxrqkr03W8ydHGjKcgP_/view?usp=sharing)
+- For Android: Download [apk here](https://drive.google.com/file/d/1oHz6aAQ4bn4U0fT1P9aVFqMH_XZscz5f/view?usp=sharing) and [obb here](https://drive.google.com/file/d/19TGz9ghHUqPr4sCtZxE-02dn9HHs2VQI/view?usp=sharing)
