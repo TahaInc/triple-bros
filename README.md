@@ -10,5 +10,5 @@ Unfortunately the game has been removed from the App Store and Google Play Store
 
 ## Download the game file here:
 
-- For iPhone: Download [here](https://drive.taharhidouani.com/s/yg8By5jqWzwHkpx)
-- For Android: Download [apk here](https://drive.taharhidouani.com/s/7f4iYBoMEHqtBTB) and [obb here](https://drive.taharhidouani.com/s/E3KeLjyzHRF4Nqk)
+- For iPhone: Download [here](https://www.icloud.com/iclouddrive/0e49hsrCCKYqdADjo9zyDaJ6A#Triple_Bros)
+- For Android: Download [apk here](https://www.icloud.com/iclouddrive/0beMAEZ2abMlvQLYAc_60gn1w#Triple_Bros) and [obb here](https://www.icloud.com/iclouddrive/05298ERaM78qVAFADJCHfCkAA#Triple_Bros)
