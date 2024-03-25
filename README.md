@@ -4,7 +4,7 @@ A mobile game coded using C# and pushed to the Android's Google Play Store and i
 
 #### See the ad for the game [here](https://www.youtube.com/watch?v=YH6xmQUCVZo).
 
-![home](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_5.png?raw=true) ![character picker](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_1.png?raw=true) ![multiplayer screen](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_8.png?raw=true) ![single player map](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_2.jpg?raw=true) ![level](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_3.png?raw=true) ![level](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_4.png?raw=true) ![level](https://github.com/TahaInc/Triple-Bros/blob/master/images/screenshot_7.png?raw=true)
+![home](./images/screenshot_5.png) ![character picker](./images/screenshot_1.png) ![multiplayer screen](./images/screenshot_8.png) ![single player map](./images/screenshot_2.jpg) ![level](./images/screenshot_3.png) ![level](./images/screenshot_4.png) ![level](./images/screenshot_7.png)
 
 Unfortunately the game has been removed from the App Store and Google Play Store due to high maintenance fees, but the game file is still available for free down below. The original source code was also deleted as I did not have enough storage to keep it in my computer back then.
 
